@@ -1,7 +1,7 @@
 package org.exercise.javabank;
 
 public class Conto {
-    private final int numeroConto;
+    private  int numeroConto;
     private String nomeProprietario;
     private double saldo;
 
